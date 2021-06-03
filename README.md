@@ -1,6 +1,6 @@
 # K17_Galileo_Embedded-System
 Use Galileo Gen 1, language Python
-OS Galileo_Poky_SW_image_20160606 \n
+OS Galileo_Poky_SW_image_20160606
 https://downloadcenter.intel.com/download/26418?v=t
 Set up OS:
  https://www.instructables.com/Galileo-Monochrome-Webcam-Display-System/?fbclid=IwAR0VhiXZ26jSKOp5YmQqvICNsI1MdAYXIm542NF4szZlB9a9tgKN86cwUwc
